@@ -65,7 +65,7 @@ $apps_script
 $rom_script
 
 PRODUCT_NAME := $target
-PRODUCT_DEVICE := aosp_${arch}_$part
+PRODUCT_DEVICE := tdgsi_${arch}_$part
 PRODUCT_BRAND := google
 PRODUCT_SYSTEM_BRAND := google
 PRODUCT_MODEL := TrebleDroid $apps_name
